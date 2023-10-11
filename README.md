@@ -1,16 +1,28 @@
-### Hi there 👋
+## Eduardo Dorantes
 
-<!--
-**doranteseduardo/doranteseduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Eduardo Dorantes, a software engineer from Mexico.
 
-Here are some ideas to get you started:
+🚀 I am well experienced in various areas, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Unity Game Development
+- Augmented Reality
+- Native Android and iOS Development
+- Web Development
+
+🌐 I have previously worked with the following companies:
+
+- Moropo
+- Capitol Interactive
+
+👨‍👩‍👦 My hobbies include spending quality time with my family.
+
+🔥 I am a passionate Pokemon fan and currently run an eSports organization called [Villanos eSports](https://villanospokemon.com).
+
+📚 Right now, I am focused on learning about:
+
+- Artificial Intelligence (AI)
+- Continuous Integration/Continuous Deployment (CI/CD)
+
+Feel free to connect with me and check out my projects!
+
+[![GitHub Follow](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/doranteseduardo)
