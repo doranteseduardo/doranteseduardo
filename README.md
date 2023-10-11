@@ -25,4 +25,4 @@
 
 Feel free to connect with me and check out my projects!
 
-[![GitHub Follow](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/doranteseduardo)
+[![GitHub Follow](https://img.shields.io/github/followers/doranteseduardo?label=Follow&style=social)](https://github.com/doranteseduardo)
