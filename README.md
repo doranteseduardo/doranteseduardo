@@ -12,7 +12,7 @@
 🌐 I have previously worked with the following companies:
 
 - [Moropo](https://moropo.com)
-- Capitol Interactive
+- [Capitol Interactive](https://capitol-interactive.com)
 
 👨‍👩‍👦 My hobbies include spending quality time with my family.
 
