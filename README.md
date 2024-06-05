@@ -16,12 +16,11 @@
 
 👨‍👩‍👦 My hobbies include spending quality time with my family.
 
-🔥 I am a passionate Pokemon fan and currently run an eSports organization called [Villanos eSports](https://villanospokemon.com).
+🔥 I am a passionate Pokemon fan and currently run an eSports organization called [Villanos eSports](https://villanosesports.com).
 
 📚 Right now, I am focused on learning about:
 
 - Artificial Intelligence (AI)
-- Continuous Integration/Continuous Deployment (CI/CD)
 
 Feel free to connect with me and check out my projects!
 
