@@ -1,27 +1,41 @@
 ## Eduardo Dorantes
 
-👋 Hi there! I'm Eduardo Dorantes, a software engineer from Mexico.
+👋 Hello! I'm Eduardo Dorantes, a **Full Stack Developer** and current **Tech Lead at [ReactVision](https://github.com/ReactVision)** — an open-source platform focused on cutting-edge Augmented Reality.
 
-🚀 I am well experienced in various areas, including:
+[![GitHub Followers](https://img.shields.io/github/followers/doranteseduardo?label=Follow&style=social)](https://github.com/doranteseduardo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/doranteseduardo/)
+[![ReactVision](https://img.shields.io/badge/Open%20Source-ReactVision-ff69b4?logo=github)](https://github.com/ReactVision)
 
-- Unity Game Development
-- Augmented Reality
-- Native Android and iOS Development
-- Web Development
+---
 
-🌐 I have previously worked with the following companies:
+### 🚀 What I Do / Lo que hago
 
-- [Moropo](https://moropo.com)
-- [Capitol Interactive](https://capitol-interactive.com)
+- **Mobile Development** — Swift, Kotlin, C++, React Native, Expo  
+- **Augmented Reality** — Focused on real-world immersive experiences  
+- **Full Stack Web** — Backend and frontend across multiple stacks  
+- Occasional **Unity** projects for interactive 3D applications  
 
-👨‍👩‍👦 My hobbies include spending quality time with my family.
+---
 
-🔥 I am a passionate Pokemon fan and currently run an eSports organization called [Villanos eSports](https://villanosesports.com).
+### 🎯 Current Focus / Enfoque actual
 
-📚 Right now, I am focused on learning about:
+- 📘 Learning **Machine Learning** and **Data Science**  
+- 🧠 Exploring the intersection of **AR + ML**  
+- 📈 Driving **ReactVision** to lead the AR development ecosystem  
 
-- Artificial Intelligence (AI)
+---
 
-Feel free to connect with me and check out my projects!
+### 🎮 Hobbies & Interests / Intereses personales
 
-[![GitHub Follow](https://img.shields.io/github/followers/doranteseduardo?label=Follow&style=social)](https://github.com/doranteseduardo)
+- 🧸 Proud family man  
+- 🎮 Pokémon fan  
+- 🏋️‍♂️ Training to become a **powerlifter**
+
+---
+
+### 📬 Contact / Contacto
+
+I’m not currently open to work, but I love connecting over open source, AR, ML, and developer communities.  
+Feel free to explore my projects and reach out if we share interests!
+
+---
