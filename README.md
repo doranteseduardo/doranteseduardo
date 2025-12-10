@@ -1,41 +1,40 @@
 ## Eduardo Dorantes
 
-👋 Hello! I'm Eduardo Dorantes, a **Full Stack Developer** and current **Tech Lead at [ReactVision](https://github.com/ReactVision)** — an open-source platform focused on cutting-edge Augmented Reality.
+Software Engineer & Tech Lead based in Hidalgo, Mexico. Co-Founder of [ReactVision](https://github.com/ReactVision), currently leading technical initiatives at StratPlus.
 
 [![GitHub Followers](https://img.shields.io/github/followers/doranteseduardo?label=Follow&style=social)](https://github.com/doranteseduardo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/doranteseduardo/)
-[![ReactVision](https://img.shields.io/badge/Open%20Source-ReactVision-ff69b4?logo=github)](https://github.com/ReactVision)
 
 ---
 
-### 🚀 What I Do / Lo que hago
+I build mobile and AR/VR applications with a focus on democratizing immersive technology through open source. At ReactVision, I revived and modernized ViroReact—now with over 70,000 downloads this year—extending support for the latest React Native architecture.
 
-- **Mobile Development** — Swift, Kotlin, C++, React Native, Expo  
-- **Augmented Reality** — Focused on real-world immersive experiences  
-- **Full Stack Web** — Backend and frontend across multiple stacks  
-- Occasional **Unity** projects for interactive 3D applications  
+My work spans Swift, Kotlin, TypeScript, and C++ across iOS, Android, and cross-platform development.
 
 ---
 
-### 🎯 Current Focus / Enfoque actual
+### Projects
 
-- 📘 Learning **Machine Learning** and **Data Science**  
-- 🧠 Exploring the intersection of **AR + ML**  
-- 📈 Driving **ReactVision** to lead the AR development ecosystem  
+**[ReactVision](https://github.com/ReactVision)** — Open-source platform for AR/VR development in React Native. Extends ViroReact with support for the latest architecture, enabling cross-platform XR experiences.
 
----
+**AI Identity Platform** — AI-powered identity verification: OCR document processing, facial recognition, and electronic signing for businesses. *Coming soon.*
 
-### 🎮 Hobbies & Interests / Intereses personales
-
-- 🧸 Proud family man  
-- 🎮 Pokémon fan  
-- 🏋️‍♂️ Training to become a **powerlifter**
+**Unified Cloud Platform** — Multi-provider cloud platform unifying AWS, Google Cloud, Azure, and Hetzner into a single interface with simplified pricing. *Coming soon.*
 
 ---
 
-### 📬 Contact / Contacto
+### Tech
 
-I’m not currently open to work, but I love connecting over open source, AR, ML, and developer communities.  
-Feel free to explore my projects and reach out if we share interests!
+**Languages** — TypeScript, Swift, Kotlin, Java, Objective-C, C/C++
+
+**Frameworks** — React Native, Expo, ARCore, ViroReact, Filament
+
+**Cloud** — AWS, Google Cloud, Azure, Hetzner
 
 ---
+
+*Premio a la Innovación Gubernamental, Gobierno de Hidalgo*
+
+Open to collaboration on innovative projects.
+
+[doranteseduardo.com](https://doranteseduardo.com)
